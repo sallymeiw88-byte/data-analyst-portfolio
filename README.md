@@ -10,7 +10,11 @@ I’m currently completing a Data Analyst bootcamp, where I work with real-world
 - Data Analysis: data cleaning, KPI definition, basic visualization
 
 ## 📁 Projects
-This repository contains selected projects from my Data Analyst training and personal practice.
+📊 Projects
+- Walmart Sales Analysis (Google Sheets)🔗 🔗 [View project](https://docs.google.com/spreadsheets/d/1qf-MJ-jAtIC-Zl6EB7ydCPtFT4rnvDAkX6zzf6r2LDo/edit?usp=sharing)
+
+
+
 
 ## 🚀 Currently Learning
 - Advanced SQL queries
