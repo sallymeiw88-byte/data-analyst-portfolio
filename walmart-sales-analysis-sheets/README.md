@@ -33,7 +33,11 @@ The analysis focuses on evaluating sales efficiency, department contribution, an
 - Some departments showed high volatility, indicating higher business risk.
 
 ## 📸 Dashboard Preview
-See screenshots in the `/screenshots` folder.
+![Dashboard](./screenshots/Dashboard.png)
+
+![KPI Department Participation](./screenshots/3kpiparticipacion.png)
+
+![Clean Data Table](./screenshots/Cleandata.png)
 
 ## 🔗 Project Link
 Google Sheets (view only):https://docs.google.com/spreadsheets/d/1qf-MJ-jAtIC-Zl6EB7ydCPtFT4rnvDAkX6zzf6r2LDo/edit?usp=sharing
