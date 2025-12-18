@@ -1,49 +1,61 @@
 👋 Hi, I’m Sally Mei
 
-I’m a Junior Data Analyst with hands-on experience in SQL, Python (Pandas), and Google Sheets.
-I focus on cleaning, structuring, and analyzing data to produce clear, actionable insights for business decision-making.
+I’m a Junior Data Analyst with hands-on experience in SQL, Python (Pandas), and Google Sheets, focused on data cleaning, validation, and structuring to deliver reliable, business-ready insights.
 
-I’m currently completing a professional Data Analyst bootcamp, where I work with real-world datasets to solve business problems and communicate data-driven findings.
-
----
+I’m currently completing a Data Analyst bootcamp, where I work with real-world datasets to analyze business performance, define KPIs, and communicate data-driven findings clearly and effectively.
 
 🛠️ Technical Skills
 
-- **SQL:** SELECT, WHERE, JOIN, GROUP BY, aggregations  
-- **Python:** Pandas, NumPy, data cleaning, basic exploratory data analysis (EDA)  
-- **Google Sheets:** Pivot Tables, formulas, dashboards  
-- **Data Analysis:** Data cleaning, KPI definition, basic data visualization  
+Data Analysis & Quality
 
----
+Data cleaning, validation, and standardization
+
+KPI definition and performance analysis
+
+Basic exploratory data analysis (EDA)
+
+Tools & Technologies
+
+SQL: SELECT, WHERE, JOIN, GROUP BY, aggregations
+
+Python: Pandas, NumPy, data cleaning, EDA
+
+Google Sheets / Excel: Pivot Tables, formulas, dashboards
 
 📁 Projects
 
-📊 **Walmart Sales Analysis (Google Sheets)**  
-- Cleaned and analyzed weekly sales data from multiple sources.  
-- Built KPIs to evaluate department efficiency and sales contribution.  
-- Created an executive-level dashboard to support budget and inventory decisions.  
-🔗 **View project:** https://github.com/sallymei-data/walmart-sales-analysis-sheets
+📊 Walmart Sales Analysis (Google Sheets)
 
-📈 **Marketing Campaign Performance Analysis (SQL)**  
-- Analyzed marketing campaigns to identify top-performing initiatives.  
-- Calculated total revenue and completed trips per campaign using SQL.  
-- Applied joins, aggregations, and business filters to answer key questions.  
-🔗 **View project:** https://github.com/sallymei-data/sql-marketing-campaign
+Cleaned, validated, and analyzed weekly sales data across stores and departments.
 
-🌫️ **Air Quality Analysis by Location (Python & Pandas)**  
-- Grouped and aggregated air pollution (PM2.5) data by monitoring location.  
-- Calculated average pollution levels and number of measurements per location.  
-- Organized and sorted results to highlight areas with higher monitoring density.  
-🔗 **View project:** https://github.com/sallymei-data/python-pandas-openaq
+Defined KPIs to measure department contribution, sales efficiency, and volatility.
 
----
+Built an executive-level dashboard to support budget allocation and inventory planning.
 
-🚀 Currently Learning
+🔗 View project:
+https://github.com/sallymeiw88-byte/walmart-sales-analysis-sheets
 
-- Advanced SQL queries and joins  
-- Python data analysis workflows with Pandas  
-- Data storytelling and insight communication  
+📈 Marketing Campaign Performance Analysis (SQL)
 
+Joined and validated multi-table datasets to analyze marketing campaign performance.
+
+Calculated total revenue and completed trips per campaign using SQL aggregations.
+
+Applied business filters to ensure data accuracy and deliver clean performance metrics.
+
+🔗 View project:
+https://github.com/sallymeiw88-byte/sql-marketing-campaign-performance
+
+🌫️ Air Pollution Analysis by Location (Python & Pandas)
+
+Cleaned real-world air pollution (PM2.5) data by removing duplicates and handling missing values.
+
+Grouped and aggregated data to calculate average pollution levels per monitoring location.
+
+Produced structured summary tables to support reliable exploratory analysis.
+
+🔗 View project:
+https://github.com/sallymeiw88-byte/python-air-pollution-analysis
 ---
 
 📫 Contact
