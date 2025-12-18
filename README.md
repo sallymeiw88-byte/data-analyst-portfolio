@@ -1,25 +1,38 @@
-# 📊 Sally Mei – Data Analyst Portfolio
+# 👋 Hi, I’m Sally Mei
 
-Hi! I’m a Junior Data Analyst with hands-on experience in SQL, Python, and Google Sheets.  
-I’m currently completing a Data Analyst bootcamp, where I work with real-world datasets to clean, analyze, and extract actionable insights.
+I’m a Junior Data Analyst with hands-on experience in **SQL, Python, and Google Sheets**, focused on turning raw data into clean, structured data and actionable insights.
+
+I’m currently completing a Data Analyst bootcamp, where I work with real-world datasets to clean, analyze, and communicate data-driven findings for business decision-making.
+
+---
 
 ## 🛠️ Technical Skills
-- SQL: SELECT, WHERE, JOIN, GROUP BY, aggregations
-- Python: Pandas, NumPy, data cleaning, exploratory data analysis
-- Google Sheets: pivot tables, formulas, dashboards
-- Data Analysis: data cleaning, KPI definition, basic visualization
+
+- **SQL:** SELECT, WHERE, JOIN, GROUP BY, basic aggregations  
+- **Python:** Pandas, NumPy, data cleaning, basic exploratory data analysis  
+- **Google Sheets:** pivot tables, formulas, formulas, dashboards  
+- **Data Analysis:** data cleaning, KPI definition, basic data visualization  
+
+---
 
 ## 📁 Projects
-📊 Projects
-- Walmart Sales Analysis (Google Sheets)🔗 🔗 [View project](https://docs.google.com/spreadsheets/d/1qf-MJ-jAtIC-Zl6EB7ydCPtFT4rnvDAkX6zzf6r2LDo/edit?usp=sharing)
 
+### 📊 Walmart Sales Analysis (Google Sheets)
+- Cleaned and analyzed weekly sales data from multiple sources  
+- Built KPIs to evaluate department efficiency and contribution  
+- Created an interactive dashboard for executive-level decision-making  
 
+🔗 **View project:**  
+[walmart-sales-analysis-sheets](./walmart-sales-analysis-sheets)
 
+---
 
 ## 🚀 Currently Learning
-- Advanced SQL queries
-- Python data analysis workflows
-- Data storytelling and insights communication
+- Improving SQL querying and data joins  
+- Python data analysis workflows  
+- Data storytelling and insights communication  
+
+---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/sallymei08/
+- **LinkedIn:** https://www.linkedin.com/in/sallymei08/
