@@ -1,4 +1,4 @@
-https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets
+
 # 🛒 Walmart Sales Analysis (2012)
 
 ## 📌 Project Overview
