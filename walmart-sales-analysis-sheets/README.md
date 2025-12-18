@@ -36,4 +36,4 @@ The analysis focuses on evaluating sales efficiency, department contribution, an
 See screenshots in the `/screenshots` folder.
 
 ## 🔗 Project Link
-Google Sheets (view only): *(optional – can be added later)*
+Google Sheets (view only):https://docs.google.com/spreadsheets/d/1qf-MJ-jAtIC-Zl6EB7ydCPtFT4rnvDAkX6zzf6r2LDo/edit?usp=sharing
