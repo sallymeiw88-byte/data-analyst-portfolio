@@ -50,3 +50,4 @@ I’m currently completing a professional Data Analyst bootcamp, where I work wi
 
 - **LinkedIn:** https://www.linkedin.com/in/sallymei08  
 - **GitHub:** https://github.com/sallymei-data
+
