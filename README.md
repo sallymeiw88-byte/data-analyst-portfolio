@@ -8,3 +8,4 @@ Each project demonstrates my ability to clean, validate, analyze, and communicat
 
 ## 📂 Projects
 https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis
+https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/sql-marketing-campaign-performance
