@@ -1,4 +1,3 @@
-
 # 🛒 Walmart Sales Analysis (2012)
 
 ## 📌 Project Overview
@@ -6,31 +5,31 @@ This project analyzes Walmart weekly sales data for 2012 to support executive de
 
 The analysis focuses on evaluating sales efficiency, department contribution, and sales volatility using well-defined business KPIs.
 
-## 🧠 Business Questions
+## 🎯 Business Questions
 - Which departments were the most efficient in generating sales?
 - Which departments contributed the most to total sales?
 - Which departments showed higher sales volatility?
 
 ## 🗂️ Dataset
-- **raw_sales**: weekly sales by store and department
-- **stores**: store size and type
-- **departments**: department names and IDs
+- **raw_sales:** Weekly sales by store and department
+- **stores:** Store size and store type
+- **departments:** Department IDs and names
 
 ## 📊 Key KPIs
-- **Sales per square meter (Efficiency)**
+- **Sales per square meter** (Efficiency)
 - **Department sales contribution (%)**
-- **Sales volatility (risk indicator)**
+- **Sales volatility** (Risk indicator)
 
-## 🛠️ Tools Used
+## 🛠 Tools Used
 - Google Sheets
 - Pivot Tables
-- Business KPIs
+- Business KPI definition
 - Dashboard design
 
 ## 📈 Key Insights
 - Large-format stores showed higher sales efficiency.
 - A small group of departments accounted for a significant share of total sales.
-- Some departments showed high volatility, indicating higher business risk.
+- Some departments showed high sales volatility, indicating higher business risk.
 
 ## 📸 Dashboard Preview
 ## 📸 Project Screenshots
