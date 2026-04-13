@@ -32,6 +32,7 @@ This project analyzes the commercial performance of **Andes Capital**, focusing 
 * Structured a clean data model using Star Schema principles.
 
 ## 📸 Dashboard Visuals
-![Commercial Analysis](./Analisis%20Comercial.png)
 ![Dashboard Overview](./Overview.png)
+![Commercial Analysis](./Analisis%20Comercial.png)
 ![Cohort Analysis](./Cohortes.png)
+
