@@ -61,7 +61,7 @@ The objective is to identify high-performing areas of the business and support *
 
 📌 Total number of bookings by status:
 
-![Booking Status](booking_status.png)
+![Booking Status](bookings_status.png)
 
 💡 Most bookings are completed, indicating strong operational efficiency.
 
