@@ -3,19 +3,19 @@
 > ⚠️ Note: The dashboard visuals are presented in Spanish as part of a real-world business scenario.
 
 ## 📌 Project Overview
-This project analyzes the commercial performance of a real estate company using a data-driven approach, focusing on sales trends, customer segmentation, and retention through cohort analysis.
+This project analyzes the commercial performance of a real estate company, focusing on revenue growth, sales channels, customer segmentation, and retention.
 
 ## 🎯 Business Questions
 * Which property types generate the highest revenue?
 * How has the company grown compared to the previous year (YoY)?
-* Which sales channels (Brokers vs. Direct) are most effective?
-* What is the customer retention rate based on their first purchase month (Cohort Analysis)?
+* Which sales channels (Brokers vs Direct) perform best?
+* What is the customer retention rate over time (cohort analysis)?
 
 ## 🗂️ Dataset
-* **hecho_ventas_propiedades:** The fact table containing all transactional sales records, prices, and dates.
-* **dim_clientes:** Dimension table with buyer details and segmentation.
-* **dim_propiedades:** Dimension table containing property characteristics.
-* **dim_fecha:** A dedicated calendar table for advanced Time Intelligence calculations.
+* **hecho_ventas_propiedades:** Sales transactions (fact table).
+* **dim_clientes:** Customer segmentation.
+* **dim_propiedades:** Property attributes.
+* **dim_fecha:** Calendar table for time analysis
 
 ## 🛠️ Tools & Skills Used
 * Power BI (data visualization & dashboard design)
@@ -23,22 +23,23 @@ This project analyzes the commercial performance of a real estate company using 
 * Power Query (data cleaning and transformation)
 
 ## 📊 Key Metrics
-* **Total Revenue:** ~$6bn with a **111.14% Year-over-Year growth**.
+* **Total Revenue:** ~$6B with 111% YoY growth**.
 * **Top Property Type:** Houses ("Casa") are the top-performing property type in terms of revenue.
 * **Sales Force:** Brokers ("Corredores") drive 72.8% of the total revenue.
-* **Retention:** The October 2024 cohort showed a peak in customer recurrence (26.5%).
+* **Retention:** Peak customer recurrence reached 26.5%.
 
 ## ✅ Key Learnings
-* Developed complex DAX formulas to calculate business growth and retention.
-* Designed an executive-level interactive dashboard for stakeholders.
-* Applied Cohort Analysis to understand long-term customer behavior.
-
+* Built a star schema data model for efficient analysis.
+* Developed DAX measures for growth and retention tracking.
+* Designed a business-ready dashboard focused on key KPIs.
+* Applied cohort analysis to evaluate long-term customer behavior.
+  
 ## 🧩 Data Model
 The data model follows a star schema:
 - Fact table: sales transactions
 - Dimension tables: customers, properties, and date
+- One-to-many relationships for accurate aggregations
 
-Relationships are designed with one-to-many cardinality and single-direction filtering to ensure accurate aggregations.
 
 
 ## 📸 Dashboard Visuals
