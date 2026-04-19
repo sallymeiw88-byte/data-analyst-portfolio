@@ -103,11 +103,4 @@ ORDER BY profit DESC;
 ---
 
 
-Top Routes by Profit
-📌 The table below shows the most profitable routes based on completed bookings:
-![Top Routes](top_routes.png)
-
-✈️ Top Aircraft by Profit
-📌 The table below ranks aircraft models by total profit:
-![Top Aircraft](top_aircraft.png)
 
