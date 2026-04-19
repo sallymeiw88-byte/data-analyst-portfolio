@@ -69,6 +69,8 @@ The objective is to identify high-performing areas of the business and support *
 🏭 Manufacturer Analysis (Relational Data)
 
 📌 The table below ranks aircraft manufacturers by total profit
+
+![Manufacters by total profit](manufacter.png)
 ---
 
 ## 🧮 SQL Queries
@@ -126,7 +128,20 @@ SELECT
     COUNT(*) AS total_bookings
 FROM bookings
 GROUP BY booking_status;
-```
+
+### 🏭 Top Manufacter by Profit
+
+```sql
+SELECT 
+    a.manufacturer,
+    COUNT(*) AS trips,
+    SUM(b.price_charged_usd - b.operator_cost_usd) AS profit
+FROM bookings b
+JOIN aircraft_dim a
+    ON b.aircraft_model = a.aircraft_model
+WHERE b.booking_status = 'Completed'
+GROUP BY a.manufacturer
+ORDER BY profit DESC;
 
 ---
 
