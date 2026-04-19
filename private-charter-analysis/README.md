@@ -53,13 +53,13 @@ The objective is to identify high-performing areas of the business and support *
 ## 🧮 SQL Queries
 
 ### 💰 Financial Summary
-
+'''sql
 SELECT SUM(price_charged_usd) AS total_revenue, 
 SUM(operator_cost_usd) AS total_cost, 
 SUM(price_charged_usd - operator_cost_usd) AS total_profit 
 FROM bookings 
 WHERE booking_status = 'Completed';
-
+'''
 ---
 
 ### 📈 Top Routes by Profit
