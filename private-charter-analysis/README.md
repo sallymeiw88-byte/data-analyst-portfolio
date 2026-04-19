@@ -27,5 +27,5 @@ The route **FLL–CUN** is the most profitable route based on total profit.
 * Total Revenue: $88,859
 * Total Profit: $12,742
 
-![Top Routes](images/top_routes.png)
+![Top Routes]([images/top_routes.png](https://github.com/sallymeiw88-byte/data-analyst-portfolio/blob/main/private-charter-analysis/top_routes.png.png))
 
