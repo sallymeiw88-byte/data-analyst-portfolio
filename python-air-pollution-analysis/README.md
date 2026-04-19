@@ -1,16 +1,16 @@
 # 🌫️ Air Pollution Analysis by Location (Python)
 
 ## 📌 Project Overview
-This project analyzes air pollution (PM2.5) measurements to identify which locations have the highest monitoring coverage and their average pollution levels.
+This project analyzes global air pollution (PM2.5) data to evaluate pollution levels and data coverage across different locations.
 
-The analysis focuses on understanding pollution intensity and data availability across different locations using Python and Pandas.
+The goal is to transform raw environmental data into structured insights by applying data cleaning, aggregation, and analysis techniques using Python and Pandas.
 
 ## 🎯 Business Questions
 - Which locations have the highest number of pollution measurements?
-- What is the average PM2.5 level for each location?
+- What are the average PM2.5 levels by location?
 
 ## 🗂️ Dataset
-**openaq_pm25.csv** — Air quality measurements collected from sensors around the world.
+**openaq_pm25.csv** — Air quality measurements collected from sensors worldwide.
 
 **Key columns used:**
 - `location`: Sensor location
@@ -28,16 +28,17 @@ The analysis focuses on understanding pollution intensity and data availability 
 - Calculated:
   - Average PM2.5 concentration
   - Number of measurements per location
-- Sorted results by record count and location name
+- Sorted results to identify top locations by data volume
 
 ## 📊 Key Metrics
-- Average PM2.5 concentration per location
-- Total number of measurements per location
+- Identified locations with the highest monitoring activity.
+- Compared pollution levels across different regions.
+- Highlighted variations in data availability between locations.
 
 ## ✅ Key Learnings
-- Grouped and aggregated data using Pandas
-- Cleaned and prepared real-world datasets
-- Sorted data using multiple criteria
-- Wrote clear, readable, and structured Python code
+- Cleaned and structured raw environmental data.
+- Applied grouping and aggregation using Pandas.
+- Produced a dataset ready for analysis and reporting.
+- Wrote clear, structured, and reproducible Python code.
 
 
