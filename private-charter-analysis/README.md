@@ -90,23 +90,30 @@ ORDER BY profit DESC;
 
 ### 📊 Booking Status Count
 
-SELECT booking_status, 
-COUNT(*) AS total_bookings 
+sql
+SELECT 
+    booking_status, 
+    COUNT(*) AS total_bookings 
 FROM bookings 
 GROUP BY booking_status;
+
 
 ---
 
 ### 🏭 Top Manufacturer by Profit
 
-SELECT a.manufacturer, 
-COUNT(*) AS trips, 
-SUM(b.price_charged_usd - b.operator_cost_usd) AS profit 
+sql
+SELECT 
+    a.manufacturer, 
+    COUNT(*) AS trips, 
+    SUM(b.price_charged_usd - b.operator_cost_usd) AS profit 
 FROM bookings b 
-JOIN aircraft_dim a ON b.aircraft_model = a.aircraft_model 
+JOIN aircraft_dim a 
+    ON b.aircraft_model = a.aircraft_model 
 WHERE b.booking_status = 'Completed' 
 GROUP BY a.manufacturer 
 ORDER BY profit DESC;
+
 
 ---
 
@@ -129,23 +136,6 @@ ORDER BY profit DESC;
 * Helped identify low-performing routes for cost reduction  
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
