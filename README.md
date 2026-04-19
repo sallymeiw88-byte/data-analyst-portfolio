@@ -1,8 +1,8 @@
 # 📊 Data Analyst Portfolio – Sally Mei
 
-This repository contains selected data analytics projects completed as part of my professional training and independent practice.
+This repository showcases selected data analytics projects focused on data cleaning, validation, analysis, and reporting.
 
-Each project demonstrates my ability to clean, validate, analyze, and communicate data-driven insights using SQL, Python, Google Sheets and Power BI
+Each project demonstrates my ability to transform raw data into reliable, structured, and business-ready datasets using SQL, Python, Google Sheets, and Power BI.
 
 ---
 
