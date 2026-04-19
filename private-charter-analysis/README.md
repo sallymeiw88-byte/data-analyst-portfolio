@@ -27,6 +27,8 @@ The objective is to identify high-performing areas of the business and support *
 
 * 💰 Total revenue: **$1,932,364**
 
+* 🏭 Most profitable manufacturer: Cessna ($130,819 profit) vs Bombardier ($105,436 profit)
+
 * 📉 Total cost: **$1,644,761**
 
 * 📊 Total profit: **$287,603**
@@ -66,12 +68,12 @@ The objective is to identify high-performing areas of the business and support *
 💡 Most bookings are completed, indicating strong operational efficiency.
 
 
-🏭 Manufacturer Analysis (Relational Data)
+## 🏭 Manufacturer Analysis (Relational Data)
 
-📌 The table below ranks aircraft manufacturers by total profit
+📌 The table below ranks aircraft manufacturers by total profit:
 
-![Manufacters by total profit](manufacter.png)
----
+![Manufacturer Analysis](manufacturer.png)
+
 
 ## 🧮 SQL Queries
 
@@ -129,7 +131,8 @@ SELECT
 FROM bookings
 GROUP BY booking_status;
 
-### 🏭 Top Manufacter by Profit
+
+### 🏭 Top Manufacturer by Profit
 
 ```sql
 SELECT 
