@@ -1,106 +1,114 @@
-# ✈️ Private Charter Profitability Analysis (SQL Project)
+✈️ Private Charter Profitability Analysis (SQL Project)
+📊 Project Overview
 
-## 📊 Project Overview
+This project analyzes private charter flight operations to evaluate revenue, cost, and profitability across different routes and aircraft models.
 
-This project analyzes private charter flight operations to evaluate **revenue, cost, and profitability** across different routes and aircraft models.
+The objective is to identify high-performing areas of the business and support data-driven decision-making.
 
-The goal is to identify high-performing areas of the business and support **data-driven decision-making**.
+🎯 Business Questions
+Which routes generate the highest profit?
+Which aircraft models are the most profitable?
+What are the total revenue, cost, and profit?
+How many bookings are completed vs canceled?
+🧠 Key Insights
+🥇 Most profitable route: FLL–CUN ($12,742 profit)
+✈️ Top aircraft: Challenger 604 ($56,646 profit)
+💰 Total revenue: $1,932,364
+📉 Total cost: $1,644,761
+📊 Total profit: $287,603
+📊 Overall Financial Summary
 
----
+📌 Aggregated totals from completed bookings:
 
-## 🎯 Business Questions
-
-* Which routes generate the highest profit?
-* Which aircraft models are the most profitable?
-* What are the total revenue, cost, and profit?
-* What percentage of bookings are completed vs canceled?
-
----
-
-## 🧠 Key Insights
-
-* 🥇 Most profitable route: **FLL–CUN** ($12,742 profit)
-* ✈️ Top aircraft: **Challenger 604**
-* 📊 Total revenue: **$88,859**
-* 💰 Total profit: **$12,742**
-* 📦 Total trips analyzed: **5 (top route)**
-
----
-
-## 📈 Top Routes by Profit
+📈 Top Routes by Profit ![Top Routes](top_routes.png)
 
 📌 The table below shows the most profitable routes based on completed bookings:
 
-![Top Routes](top_routes.png)
-
----
-
-## ✈️ Top Aircraft by Profit
+✈️ Top Aircraft by Profit ![Top Aircraft](top_aircraft.png)
 
 📌 The table below ranks aircraft models by total profit:
 
-![Top Aircraft](top_aircraft.png)
+📊 Booking Status Distribution  ![Booking Status](
 
----
+📌 Total number of bookings by status:
 
-## 🛠️ Tools & Skills
+💡 Most bookings are completed, indicating strong operational efficiency.
 
-* SQL (Data Aggregation: `SUM`, `COUNT`)
-* Business Metrics (Revenue, Cost, Profit)
-* Data Analysis
-* Data Interpretation
-
----
-
-## 🧾 SQL Queries
-
-### Top Routes by Profit
-
-```sql
-SELECT 
-    route,
-    COUNT(*) AS trips,
-    SUM(price_charged_usd) AS revenue,
-    SUM(price_charged_usd - operator_cost_usd) AS profit
+🧮 SQL Queries
+💰 Financial Summary
+SELECT
+    SUM(price_charged_usd) AS total_revenue,
+    SUM(operator_cost_usd) AS total_cost,
+    SUM(price_charged_usd - operator_cost_usd) AS total_profit
+FROM bookings
+WHERE booking_status = 'Completed';
+📈 Top Routes by Profit
+SELECT
+    departure_airport,
+    arrival_airport,
+    SUM(price_charged_usd - operator_cost_usd) AS total_profit
 FROM bookings
 WHERE booking_status = 'Completed'
-GROUP BY route
-ORDER BY profit DESC;
-```
+GROUP BY departure_airport, arrival_airport
+ORDER BY total_profit DESC;
 
-### Top Aircraft by Profit
 
-```sql
-SELECT 
+✈️ Top Aircraft by Profit
+SELECT
     aircraft_model,
-    COUNT(*) AS trips,
-    SUM(price_charged_usd) AS revenue,
-    SUM(price_charged_usd - operator_cost_usd) AS profit
+    SUM(price_charged_usd - operator_cost_usd) AS total_profit
 FROM bookings
 WHERE booking_status = 'Completed'
 GROUP BY aircraft_model
-ORDER BY profit DESC;
-```
+ORDER BY total_profit DESC;
+📊 Booking Status Count
+SELECT
+    booking_status,
+    COUNT(*) AS total_bookings
+FROM bookings
+GROUP BY booking_status;
+🛠️ Tools & Skills
+SQL (Aggregations, GROUP BY)
+Data Analysis & Business Metrics
+Profitability Analysis
+Data Interpretation
+Data Visualization (Tables & Charts)
 
----
+📌 Conclusion
 
-## 📂 Dataset
+This analysis highlights key profitability drivers in private charter operations. By focusing on high-performing routes and aircraft, stakeholders can optimize pricing strategies, reduce costs, and improve overall efficiency.
 
-* Source: Simulated dataset (for analysis purposes)
-* Rows: 200
-* Columns: 14
-* Description: Flight bookings including route, aircraft model, revenue, and cost
 
----
 
-## 💡 Business Impact
 
-* Identified high-profit routes to prioritize operations
-* Highlighted most efficient aircraft models
-* Supports pricing strategy and route optimization
-* Helps reduce focus on low-profit routes
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
