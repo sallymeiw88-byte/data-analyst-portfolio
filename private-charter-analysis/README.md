@@ -16,7 +16,7 @@ The objective is to identify high-performing areas of the business and support *
 * Which aircraft models are the most profitable?
 * What are the total revenue, cost, and profit?
 * How many bookings are completed vs canceled?
-
+* Which manufacturers are the most profitable?
 ---
 
 ## 🧠 Key Insights
@@ -65,6 +65,10 @@ The objective is to identify high-performing areas of the business and support *
 
 💡 Most bookings are completed, indicating strong operational efficiency.
 
+
+🏭 Manufacturer Analysis (Relational Data)
+
+📌 The table below ranks aircraft manufacturers by total profit
 ---
 
 ## 🧮 SQL Queries
