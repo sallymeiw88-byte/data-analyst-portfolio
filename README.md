@@ -8,6 +8,6 @@ Each project demonstrates my ability to transform raw data into reliable, struct
 
 ## 📂 Projects
 https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/python-air-pollution-analysis
-https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/sql-marketing-campaign-performance
+https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/private-charter-analysis
 https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/walmart-sales-analysis-sheets
 https://github.com/sallymeiw88-byte/data-analyst-portfolio/tree/main/Real-Estate-Analysis
