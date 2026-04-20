@@ -52,67 +52,59 @@ The objective is to identify high-performing areas of the business and support *
 
 ## 🧮 SQL Queries
 
-### 💰 Financial Summary
-'''sql
-SELECT SUM(price_charged_usd) AS total_revenue, 
-SUM(operator_cost_usd) AS total_cost, 
-SUM(price_charged_usd - operator_cost_usd) AS total_profit 
-FROM bookings 
+### Financial Summary
+```sql
+SELECT SUM(price_charged_usd) AS total_revenue,
+       SUM(operator_cost_usd) AS total_cost,
+       SUM(price_charged_usd - operator_cost_usd) AS total_profit
+FROM bookings
 WHERE booking_status = 'Completed';
-'''
----
+```
 
-### 📈 Top Routes by Profit
-'''sql
-SELECT route, 
-COUNT(*) AS trips, 
-SUM(price_charged_usd) AS revenue, 
-SUM(price_charged_usd - operator_cost_usd) AS profit 
-FROM bookings 
-WHERE booking_status = 'Completed' 
-GROUP BY route 
+### Top Routes by Profit
+```sql
+SELECT route,
+       COUNT(*) AS trips,
+       SUM(price_charged_usd) AS revenue,
+       SUM(price_charged_usd - operator_cost_usd) AS profit
+FROM bookings
+WHERE booking_status = 'Completed'
+GROUP BY route
 ORDER BY profit DESC;
-'''
----
+```
 
-### ✈️ Top Aircraft by Profit
-'''sql
-SELECT aircraft_model, 
-COUNT(*) AS trips, 
-SUM(price_charged_usd) AS revenue, 
-SUM(price_charged_usd - operator_cost_usd) AS profit 
-FROM bookings 
-WHERE booking_status = 'Completed' 
-GROUP BY aircraft_model 
+### Top Aircraft by Profit
+```sql
+SELECT aircraft_model,
+       COUNT(*) AS trips,
+       SUM(price_charged_usd) AS revenue,
+       SUM(price_charged_usd - operator_cost_usd) AS profit
+FROM bookings
+WHERE booking_status = 'Completed'
+GROUP BY aircraft_model
 ORDER BY profit DESC;
-'''
----
+```
 
-### 📊 Booking Status Count
-'''sql
-SELECT 
-    booking_status, 
-    COUNT(*) AS total_bookings 
-FROM bookings 
+### Booking Status Count
+```sql
+SELECT booking_status,
+       COUNT(*) AS total_bookings
+FROM bookings
 GROUP BY booking_status;
-'''
+```
 
----
-
-### 🏭 Top Manufacturer by Profit
-'''sql
-SELECT 
-    a.manufacturer, 
-    COUNT(*) AS trips, 
-    SUM(b.price_charged_usd - b.operator_cost_usd) AS profit 
-FROM bookings b 
-JOIN aircraft_dim a 
-    ON b.aircraft_model = a.aircraft_model 
-WHERE b.booking_status = 'Completed' 
-GROUP BY a.manufacturer 
+### Manufacturer Profitability
+```sql
+SELECT a.manufacturer,
+       COUNT(*) AS trips,
+       SUM(b.price_charged_usd - b.operator_cost_usd) AS profit
+FROM bookings b
+JOIN aircraft_dim a
+  ON b.aircraft_model = a.aircraft_model
+WHERE b.booking_status = 'Completed'
+GROUP BY a.manufacturer
 ORDER BY profit DESC;
-'''
-
+```
 ---
 
 ## 🛠️ Tools & Skills
