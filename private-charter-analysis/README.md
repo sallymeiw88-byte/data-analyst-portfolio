@@ -63,7 +63,7 @@ WHERE booking_status = 'Completed';
 ---
 
 ### 📈 Top Routes by Profit
-
+'''sql
 SELECT route, 
 COUNT(*) AS trips, 
 SUM(price_charged_usd) AS revenue, 
@@ -72,11 +72,11 @@ FROM bookings
 WHERE booking_status = 'Completed' 
 GROUP BY route 
 ORDER BY profit DESC;
-
+'''
 ---
 
 ### ✈️ Top Aircraft by Profit
-
+'''sql
 SELECT aircraft_model, 
 COUNT(*) AS trips, 
 SUM(price_charged_usd) AS revenue, 
@@ -85,24 +85,22 @@ FROM bookings
 WHERE booking_status = 'Completed' 
 GROUP BY aircraft_model 
 ORDER BY profit DESC;
-
+'''
 ---
 
 ### 📊 Booking Status Count
-
-sql
+'''sql
 SELECT 
     booking_status, 
     COUNT(*) AS total_bookings 
 FROM bookings 
 GROUP BY booking_status;
-
+'''
 
 ---
 
 ### 🏭 Top Manufacturer by Profit
-
-sql
+'''sql
 SELECT 
     a.manufacturer, 
     COUNT(*) AS trips, 
@@ -113,7 +111,7 @@ JOIN aircraft_dim a
 WHERE b.booking_status = 'Completed' 
 GROUP BY a.manufacturer 
 ORDER BY profit DESC;
-
+'''
 
 ---
 
@@ -136,17 +134,3 @@ ORDER BY profit DESC;
 * Helped identify low-performing routes for cost reduction  
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
