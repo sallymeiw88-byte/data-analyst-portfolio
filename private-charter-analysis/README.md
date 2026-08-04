@@ -105,3 +105,18 @@ ORDER BY Total_Profit DESC;
 🗺️ Route Planning: Focus commercial strategies on top-tier international routes such as Teterboro–Cancun and Orlando–Toronto.
 
 🎯 Customer Targeting: Reallocate marketing budgets toward the Entertainment and Private customer segments to maximize profit margins.
+🛠️ Tools & Skills
+
+💻 SQL: Aggregations (SUM, COUNT), Grouping (GROUP BY), Sorting (ORDER BY), Relational Joins (INNER JOIN).
+
+📊 Data Analytics: Profitability Analysis, Revenue Breakdown, Fleet Optimization.
+
+🗄️ Data Modeling: Relational Table Schemas (Fact & Dimension Tables).
+
+💡 Business Impact
+
+✈️ Fleet Optimization: Prioritize charter availability and maintenance investment for high-margin aircraft models like Gulfstream G450 and Cessna Citation XLS.
+
+🗺️ Route Planning: Focus commercial strategies on top-tier international routes such as Teterboro–Cancun and Orlando–Toronto.
+
+🎯 Customer Targeting: Reallocate marketing budgets toward the Entertainment and Private customer segments to maximize profit margins.
