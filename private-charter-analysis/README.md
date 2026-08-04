@@ -15,11 +15,11 @@ The objective is to identify high-margin business areas and support strategic de
 
 🧠 Key Insights
 
-🥇 Top Route: Teterboro to Cancun ($935,844 profit)
-✈️ Top Aircraft: Gulfstream G450 ($4,541,353.1 profit | 181 flights)
-🏭 Top Manufacturer: Bombardier ($8,060,980.1 profit | 314 flights)
-👥 Primary Revenue Driver: Entertainment Segment ($7,495,027.5 revenue | 207 flights)
-💰 Total Profitability: $25,338,506.3 Total Profit on $36,116,435.2 Total Revenue
+🥇 **Top Route:** Teterboro to Cancun ($935,844 profit)  
+✈️ **Top Aircraft:** Gulfstream G450 ($4,541,353.1 profit | 181 flights)  
+🏭 **Top Manufacturer:** Bombardier ($8,060,980.1 profit | 314 flights)  
+👥 **Primary Revenue Driver:** Entertainment Segment ($7,495,027.5 revenue | 207 flights)  
+💰 **Total Profitability:** $25,338,506.3 Total Profit on $36,116,435.2 Total Revenue  
 
 📊 Visualizations & Results
 
@@ -92,12 +92,16 @@ ORDER BY Total_Profit DESC;
 
 🛠️ Tools & Skills
 
-* 💻 **SQL**: Aggregations (`SUM`, `COUNT`), Grouping (`GROUP BY`), Sorting (`ORDER BY`), Relational Joins (`INNER JOIN`).
-* 📊 **Data Analytics**: Profitability Analysis, Revenue Breakdown, Fleet Optimization.
-* 🗄️ **Data Modeling**: Relational Table Schemas (Fact & Dimension Tables).
+💻 SQL: Aggregations (SUM, COUNT), Grouping (GROUP BY), Sorting (ORDER BY), Relational Joins (INNER JOIN).
+
+📊 Data Analytics: Profitability Analysis, Revenue Breakdown, Fleet Optimization.
+
+🗄️ Data Modeling: Relational Table Schemas (Fact & Dimension Tables).
 
 💡 Business Impact
 
-* ✈️ **Fleet Optimization**: Prioritize charter availability and maintenance investment for high-margin aircraft models like Gulfstream G450 and Cessna Citation XLS.
-* 🗺️ **Route Planning**: Focus commercial strategies on top-tier international routes such as Teterboro–Cancun and Orlando–Toronto.
-* 🎯 **Customer Targeting**: Reallocate marketing budgets toward the Entertainment and Private customer segments to maximize profit margins.
+✈️ Fleet Optimization: Prioritize charter availability and maintenance investment for high-margin aircraft models like Gulfstream G450 and Cessna Citation XLS.
+
+🗺️ Route Planning: Focus commercial strategies on top-tier international routes such as Teterboro–Cancun and Orlando–Toronto.
+
+🎯 Customer Targeting: Reallocate marketing budgets toward the Entertainment and Private customer segments to maximize profit margins.
