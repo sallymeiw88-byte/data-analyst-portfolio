@@ -37,23 +37,23 @@ The objective is to identify high-performing areas of the business and support *
 
 ### 📌 Financial Overview
 
-![Financial Summary](images/financial_summary.png)
+![Financial Summary](financial_summary.png)
 
 ### 📌 Profitability by Aircraft Model
 
-![Top Aircraft](images/top_aircraft.png)
+![Top Aircraft](top_aircraft.png)
 
 ### 📌 Top Routes Analysis
 
-![Top Routes](images/top_routes.png)
+![Top Routes](top_routes.png)
 
 ### 📌 Customer Revenue Analysis
 
-![Customer Analysis](images/customer_analysis.png)
+![Customer Analysis](customer_analysis.png)
 
 ### 📌 Manufacturer Profitability
 
-![Manufacturer Analysis](images/manufacturer_analysis.png)
+![Manufacturer Analysis](manufacturer_analysis.png)
 
 ---
 
