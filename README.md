@@ -9,9 +9,9 @@ I enjoy transforming messy datasets into structured and business-ready insights 
 ## 🔹 Featured Projects
 
 ### ✈️ Private Charter Profitability Analysis (SQL)
-Analyzed private charter flight operations to evaluate revenue, cost, and profitability across routes and aircraft models using SQL.
+Analyzed private charter flight operations using SQL to evaluate revenue, cost, profitability, and aircraft performance.
 
-**Skills:** SQL, JOINs, GROUP BY, Aggregations, Profitability Analysis
+**Skills:** SQL, JOINs, GROUP BY, Aggregations, Business Analysis
 
 ---
 
