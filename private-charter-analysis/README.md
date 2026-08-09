@@ -48,7 +48,6 @@ The interactive Power BI dashboard provides an overview of:
 - Profit by Customer Type
 - Monthly Flight Trends
 
-![Power BI Dashboard](dashboard.png)
 
 ---
 
