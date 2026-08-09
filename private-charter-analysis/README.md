@@ -1,5 +1,7 @@
 # ✈️ Private Charter Flight Profitability Analysis (SQL Project)
 
+![Power BI Dashboard](dashboard.png)
+
 ---
 
 ## 📊 Project Overview
