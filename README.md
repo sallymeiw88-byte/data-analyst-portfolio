@@ -8,10 +8,10 @@ I enjoy transforming messy datasets into structured and business-ready insights 
 
 ## 🔹 Featured Projects
 
-### ✈️ Private Charter Profitability Analysis (SQL)
-Built a SQL project to analyze charter flight profitability, customer segments, aircraft performance, and manufacturer insights.
+### ✈️ Private Charter Profitability Analysis (SQL & Power BI)
+Built a SQL and Power BI project to analyze charter flight profitability, customer segments, aircraft performance, manufacturer insights, and flight trends.
 
-**Skills:** SQL, JOINs, GROUP BY, Aggregations, Business Analysis
+**Skills:** SQL, Power BI, DAX, JOINs, GROUP BY, Data Modeling, Business Analysis
 
 ---
 
