@@ -1,4 +1,4 @@
-# ✈️ Private Charter Flight Profitability Analysis (SQL Project)
+# ✈️ Private Charter Flight Profitability Analysis — SQL & Power BI
 
 ![Power BI Dashboard](dashboard.png)
 
@@ -6,9 +6,11 @@
 
 ## 📊 Project Overview
 
-This project analyzes private charter flight operations to evaluate **financial performance, route profitability, aircraft efficiency, customer segment performance, and manufacturer profitability**.
+This project analyzes private charter flight operations using **SQL and Power BI** to evaluate financial performance, route profitability, aircraft efficiency, customer segments, and manufacturer performance.
 
-The objective is to identify high-performing areas of the business and support **business decision-making** using SQL.
+SQL was used to analyze and aggregate the data, answer business questions, and join related datasets. Power BI was used to create an interactive dashboard and communicate key business insights through KPIs and visualizations.
+
+The objective is to identify high-performing areas of the business and support **data-driven decision-making**.
 
 ---
 
@@ -19,19 +21,50 @@ The objective is to identify high-performing areas of the business and support *
 - Which flight routes are the most profitable?
 - Which customer type generates the highest revenue?
 - Which aircraft manufacturer generates the highest total profit?
+- How does flight activity change over time?
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** — Data analysis, aggregations, JOINs, GROUP BY, ORDER BY
+- **Power BI** — Interactive dashboard, KPI cards, slicers, and data visualization
+- **DAX** — Measures and KPI calculations
+- **Data Modeling** — Fact and dimension tables, relational data structure
+- **Business Analysis** — Profitability, revenue, customer segmentation, and route performance
+
+---
+
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides an overview of:
+
+- Total Revenue
+- Total Profit
+- Total Cost
+- Total Flights
+- Profit by Aircraft Model
+- Profit by Manufacturer
+- Profit by Customer Type
+- Monthly Flight Trends
+
+![Power BI Dashboard](dashboard.png)
 
 ---
 
 ## 🧠 Key Insights
 
-- 🥇 **Top Route:** Teterboro → Cancun ($935,844 Profit)
-- ✈️ **Top Aircraft:** Gulfstream G450 ($4,541,353 Profit | 181 Flights)
-- 🏭 **Top Manufacturer:** Bombardier ($8,060,980 Profit | 314 Flights)
-- 👥 **Top Customer Segment:** Entertainment ($7,495,028 Revenue | 207 Flights)
-- 💰 **Financial Summary:**
-  - Total Revenue: **$36,116,435**
-  - Total Cost: **$10,777,929**
-  - Total Profit: **$25,338,506**
+- 🥇 **Top Route:** Teterboro → Cancun — **$935,844 Profit**
+- ✈️ **Top Aircraft:** Gulfstream G450 — **$4,541,353 Profit | 181 Flights**
+- 🏭 **Top Manufacturer:** Bombardier — **$8,060,980 Profit | 314 Flights**
+- 👥 **Top Customer Segment:** Entertainment — **$7,495,028 Revenue | 207 Flights**
+
+### 💰 Financial Summary
+
+- **Total Revenue:** $36,116,435
+- **Total Cost:** $10,777,929
+- **Total Profit:** $25,338,506
+
 
 ---
 
@@ -129,24 +162,10 @@ ORDER BY Total_Profit DESC;
 
 ## 🛠️ Tools & Skills
 
-- **SQL**
-  - SUM()
-  - COUNT()
-  - GROUP BY
-  - ORDER BY
-  - INNER JOIN
-- **Data Analysis**
-  - Profitability Analysis
-  - Revenue Analysis
-  - Customer Segmentation
-  - Route Performance
-- **Data Modeling**
-  - Fact & Dimension Tables
-  - Relational Database Design
-- **Business Intelligence**
-  - KPI Analysis
-  - Business Decision Support
-
+- **SQL** — Data analysis, aggregations, JOINs, GROUP BY, business questions
+- **Power BI** — Interactive dashboard, KPI cards, slicers, and data visualization
+- **Data Modeling** — Fact and dimension tables, relational data structure
+- **Business Analysis** — Profitability, revenue, customer segmentation, route performance
 ---
 
 ## 💡 Business Impact
