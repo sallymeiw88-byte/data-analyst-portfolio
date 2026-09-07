@@ -1,0 +1,301 @@
+case_id,client_name,attorney,insurance_company,damage_type,status,open_date,close_date,estimated_damage,settlement_amount
+C001,Matthew Wilson,Emily Johnson,Heritage,Hurricane,Open,2025-04-25,,21024,0
+C002,John Carter,Sarah Mitchell,State Farm,Water,Open,2026-07-13,,30651,0
+C003,Charlotte White,Michael Davis,Tower Hill,Mold,Closed,2026-06-02,2026-08-31,49925,18031
+C004,Sophia Anderson,Daniel Wilson,State Farm,Water,Closed,2025-10-12,2025-10-28,48753,15463
+C005,David Thomas,Olivia Brown,Universal,Roof,Open,2025-12-11,,27898,0
+C006,Michael Garcia,Daniel Wilson,Heritage,Mold,Closed,2025-02-14,2025-07-16,27807,13180
+C007,Matthew Taylor,Sarah Mitchell,State Farm,Hurricane,Closed,2026-01-06,2026-02-07,46336,8003
+C008,Emily Miller,Olivia Brown,Liberty Mutual,Water,Open,2026-01-25,,44660,0
+C009,William Garcia,Michael Davis,State Farm,Fire,Closed,2025-10-01,2026-03-30,42920,9679
+C010,Charlotte Wilson,Olivia Brown,Citizens,Water,Open,2026-01-24,,44943,0
+C011,Daniel Clark,Olivia Brown,State Farm,Fire,Closed,2025-02-02,2025-05-30,7337,22546
+C012,Joseph Jones,Michael Davis,Heritage,Mold,Closed,2026-02-10,2026-08-08,12363,35071
+C013,Sophia Clark,James Anderson,Liberty Mutual,Water,Open,2026-07-06,,41311,0
+C014,Robert Miller,James Anderson,Universal,Hurricane,Closed,2025-05-22,2025-06-29,10185,8087
+C015,Charlotte Carter,Sarah Mitchell,Heritage,Mold,Closed,2026-01-30,2026-06-13,19476,39676
+C016,Sophia Miller,Sophia Moore,Citizens,Roof,Closed,2025-10-01,2026-01-11,22234,12310
+C017,Andrew Thompson,Michael Davis,State Farm,Roof,Closed,2026-05-28,2026-08-31,43979,11973
+C018,Sarah Martin,John Carter,Citizens,Roof,Closed,2025-06-15,2025-11-12,42252,5037
+C019,Amelia Williams,Sarah Mitchell,Heritage,Fire,Open,2025-11-11,,18785,0
+C020,Isabella Garcia,Emily Johnson,Liberty Mutual,Mold,Closed,2025-03-12,2025-08-10,11414,13241
+C021,Andrew Jackson,Olivia Brown,Tower Hill,Mold,Closed,2026-03-10,2026-08-10,49723,18182
+C022,Michael Anderson,John Carter,Universal,Mold,Open,2026-04-08,,17725,0
+C023,John Wilson,Sarah Mitchell,Citizens,Roof,Closed,2025-08-24,2025-09-09,49389,9652
+C024,Charlotte Jones,Sophia Moore,State Farm,Fire,Closed,2025-03-14,2025-06-08,17040,36812
+C025,Sophia Thomas,James Anderson,Tower Hill,Fire,Open,2026-02-21,,9352,0
+C026,Olivia Anderson,Sarah Mitchell,State Farm,Water,Closed,2025-02-25,2025-08-24,6972,11449
+C027,Joseph Harris,Michael Davis,Citizens,Fire,Closed,2025-07-14,2025-09-02,15025,32648
+C028,Charlotte Carter,Sarah Mitchell,State Farm,Water,Open,2026-07-18,,45738,0
+C029,William Jackson,John Carter,Tower Hill,Roof,Closed,2026-02-21,2026-05-01,6842,31282
+C030,Charlotte Martin,Emily Johnson,State Farm,Roof,Open,2026-04-11,,48651,0
+C031,Sarah Johnson,John Carter,Universal,Fire,Closed,2025-08-11,2026-01-21,6994,40533
+C032,Mia Williams,Emily Johnson,Citizens,Mold,Closed,2026-05-30,2026-08-31,6727,15317
+C033,Amelia Wilson,John Carter,Universal,Hurricane,Closed,2025-03-11,2025-05-25,10856,31461
+C034,Joseph Davis,Olivia Brown,State Farm,Roof,Closed,2026-03-06,2026-08-12,23733,39261
+C035,Andrew Harris,Olivia Brown,Citizens,Hurricane,Open,2026-02-10,,45303,0
+C036,Charlotte Davis,Daniel Wilson,State Farm,Roof,Closed,2026-04-15,2026-08-31,7801,11552
+C037,Emma Garcia,Daniel Wilson,Universal,Mold,Closed,2025-03-12,2025-06-29,13338,23676
+C038,David Jones,Daniel Wilson,Citizens,Hurricane,Closed,2025-01-09,2025-06-14,46475,24620
+C039,Grace Davis,Olivia Brown,State Farm,Roof,Open,2026-07-21,,21465,0
+C040,Sophia Moore,John Carter,Citizens,Roof,Closed,2026-06-02,2026-06-30,44568,11048
+C041,Charlotte White,John Carter,Citizens,Hurricane,Closed,2025-05-14,2025-08-04,31956,15589
+C042,Robert White,Emily Johnson,Citizens,Roof,Closed,2025-06-02,2025-09-19,39210,43175
+C043,Matthew Brown,Olivia Brown,Universal,Fire,Closed,2026-01-09,2026-02-03,16767,28449
+C044,Sophia Carter,Emily Johnson,Heritage,Roof,Closed,2025-06-08,2025-08-22,14603,15649
+C045,David Jackson,John Carter,Tower Hill,Water,Closed,2026-02-26,2026-05-15,13433,22485
+C046,Matthew Wilson,John Carter,Heritage,Water,Closed,2025-07-24,2025-12-03,23000,27915
+C047,Joseph Thomas,James Anderson,Heritage,Mold,Open,2026-02-13,,7549,0
+C048,Amelia Moore,John Carter,Citizens,Mold,Closed,2025-12-06,2026-01-19,14702,22118
+C049,Sophia Lewis,Sarah Mitchell,Tower Hill,Mold,Open,2026-03-21,,23557,0
+C050,Sophia Carter,Michael Davis,Liberty Mutual,Fire,Open,2025-07-14,,49450,0
+C051,David Taylor,Daniel Wilson,Heritage,Fire,Closed,2025-03-13,2025-06-20,46475,25572
+C052,Daniel White,James Anderson,Heritage,Water,Closed,2025-12-01,2026-03-01,11341,41333
+C053,James Taylor,Daniel Wilson,State Farm,Fire,Open,2026-08-06,,38909,0
+C054,Emma Davis,Sophia Moore,Heritage,Water,Closed,2026-08-17,2026-08-31,31952,35473
+C055,Grace Anderson,Sarah Mitchell,State Farm,Roof,Open,2025-03-28,,46506,0
+C056,Matthew Martin,Sarah Mitchell,Tower Hill,Fire,Closed,2025-08-19,2025-10-10,6028,6600
+C057,Olivia Martin,James Anderson,State Farm,Water,Open,2026-08-13,,48636,0
+C058,William Thompson,Sophia Moore,Citizens,Mold,Closed,2025-01-06,2025-02-17,17341,32862
+C059,Emma Thompson,Olivia Brown,Tower Hill,Mold,Closed,2025-09-13,2025-10-29,11738,34914
+C060,Isabella Harris,Daniel Wilson,State Farm,Roof,Closed,2026-06-01,2026-08-31,13430,34223
+C061,Michael Taylor,Michael Davis,Liberty Mutual,Roof,Closed,2026-06-18,2026-08-31,31827,22996
+C062,Matthew Jackson,Emily Johnson,Heritage,Water,Closed,2025-11-24,2025-12-29,12884,14068
+C063,Sophia Johnson,Michael Davis,Tower Hill,Fire,Closed,2025-03-07,2025-06-14,33534,40560
+C064,Isabella Carter,Olivia Brown,Liberty Mutual,Fire,Closed,2026-08-22,2026-08-31,27928,42728
+C065,Isabella Wilson,Daniel Wilson,Tower Hill,Fire,Closed,2026-03-06,2026-08-07,17453,44534
+C066,Robert Lewis,John Carter,Tower Hill,Mold,Closed,2025-01-30,2025-05-28,33630,15816
+C067,Emma Miller,John Carter,Liberty Mutual,Fire,Closed,2026-08-01,2026-08-31,11893,33089
+C068,Sarah Jackson,Daniel Wilson,Tower Hill,Roof,Open,2025-12-02,,24420,0
+C069,Matthew Williams,John Carter,Citizens,Water,Closed,2025-03-25,2025-08-25,25935,8413
+C070,Robert Martin,Sarah Mitchell,Universal,Water,Closed,2025-07-24,2026-01-14,18633,14986
+C071,Grace Brown,Emily Johnson,Liberty Mutual,Hurricane,Closed,2026-04-22,2026-08-09,42707,15996
+C072,Amelia Jackson,James Anderson,Heritage,Water,Open,2026-08-16,,23444,0
+C073,Andrew Lewis,Sarah Mitchell,Universal,Hurricane,Closed,2025-03-19,2025-09-10,9678,20915
+C074,Sarah Carter,James Anderson,Tower Hill,Hurricane,Closed,2025-12-22,2026-04-10,36158,9519
+C075,Robert White,Emily Johnson,Heritage,Mold,Closed,2026-03-20,2026-08-31,49354,35129
+C076,Sophia Clark,Daniel Wilson,Liberty Mutual,Water,Closed,2025-10-04,2026-03-05,33465,36686
+C077,Matthew Harris,James Anderson,Liberty Mutual,Hurricane,Open,2025-03-30,,32543,0
+C078,Emily Moore,Olivia Brown,Liberty Mutual,Mold,Closed,2026-05-22,2026-07-22,16901,36952
+C079,Matthew White,Sophia Moore,Universal,Water,Closed,2025-10-10,2026-03-06,8610,17521
+C080,Michael Taylor,Michael Davis,Tower Hill,Water,Closed,2026-05-03,2026-08-31,4130,34371
+C081,Mia Thomas,James Anderson,Heritage,Mold,Closed,2025-11-10,2026-02-27,39272,36015
+C082,Joseph Wilson,Sarah Mitchell,Heritage,Water,Closed,2025-12-05,2026-04-15,23094,22754
+C083,William Davis,Michael Davis,Heritage,Fire,Open,2025-11-20,,38118,0
+C084,David Davis,Daniel Wilson,State Farm,Roof,Closed,2025-10-11,2026-03-09,21546,44111
+C085,Charlotte Jones,Daniel Wilson,Citizens,Hurricane,Open,2025-07-03,,49400,0
+C086,Isabella Brown,John Carter,Universal,Roof,Open,2026-07-21,,11275,0
+C087,Joseph Martin,Sarah Mitchell,Citizens,Fire,Closed,2026-04-26,2026-08-06,6367,17082
+C088,John Jones,Emily Johnson,Universal,Roof,Open,2026-05-19,,44251,0
+C089,Grace Lewis,Michael Davis,Universal,Fire,Closed,2025-03-29,2025-05-13,30274,41573
+C090,Andrew Clark,John Carter,Universal,Hurricane,Closed,2026-04-07,2026-07-07,31103,43569
+C091,Matthew Miller,Sarah Mitchell,State Farm,Hurricane,Closed,2025-08-01,2025-10-22,13292,10320
+C092,John Wilson,Daniel Wilson,Heritage,Roof,Closed,2026-02-23,2026-08-09,22087,35796
+C093,Joseph Clark,Michael Davis,Tower Hill,Hurricane,Open,2026-04-10,,18297,0
+C094,Joseph Jones,Sarah Mitchell,Citizens,Water,Open,2026-07-12,,12764,0
+C095,David Harris,Daniel Wilson,Heritage,Fire,Closed,2025-11-11,2026-04-20,31780,23914
+C096,Grace Johnson,James Anderson,Heritage,Roof,Closed,2025-10-06,2026-02-24,8271,33688
+C097,Amelia Clark,John Carter,Heritage,Roof,Open,2025-09-14,,18002,0
+C098,Isabella Thompson,Sophia Moore,Liberty Mutual,Water,Open,2026-08-14,,14481,0
+C099,Emily White,Olivia Brown,Liberty Mutual,Hurricane,Closed,2026-08-23,2026-08-31,33802,10979
+C100,Isabella Taylor,James Anderson,Universal,Hurricane,Open,2025-06-14,,48460,0
+C101,Sarah Brown,James Anderson,Universal,Hurricane,Open,2026-04-11,,19541,0
+C102,Emily Lewis,Sophia Moore,Heritage,Fire,Closed,2026-07-10,2026-08-07,36976,17293
+C103,Robert Taylor,Sophia Moore,Heritage,Fire,Open,2025-02-22,,38993,0
+C104,Grace Wilson,Emily Johnson,Liberty Mutual,Mold,Open,2025-05-05,,44289,0
+C105,Emma Brown,Emily Johnson,Tower Hill,Roof,Closed,2025-01-15,2025-02-22,10435,19725
+C106,Matthew Harris,Emily Johnson,Tower Hill,Water,Closed,2026-06-06,2026-08-31,33947,36621
+C107,Sophia Anderson,Daniel Wilson,Citizens,Roof,Closed,2026-06-05,2026-07-24,21104,9575
+C108,Emma Garcia,Sophia Moore,Liberty Mutual,Roof,Closed,2025-11-02,2026-04-14,12738,37089
+C109,Daniel Wilson,James Anderson,State Farm,Fire,Closed,2026-07-20,2026-08-31,24088,34841
+C110,Olivia Jackson,Emily Johnson,Tower Hill,Hurricane,Open,2025-02-14,,33996,0
+C111,Emma Brown,Sophia Moore,Citizens,Water,Closed,2025-05-10,2025-10-23,9577,26757
+C112,Joseph Anderson,James Anderson,Heritage,Hurricane,Closed,2026-02-24,2026-04-19,33768,9903
+C113,Isabella Garcia,John Carter,Universal,Hurricane,Closed,2025-12-03,2026-05-03,23752,29904
+C114,Sophia Brown,Sarah Mitchell,Tower Hill,Water,Closed,2025-08-29,2025-11-25,8923,19908
+C115,Andrew Thomas,Olivia Brown,Tower Hill,Water,Closed,2025-11-03,2025-11-29,6677,26258
+C116,William Williams,James Anderson,Universal,Water,Closed,2025-09-08,2026-02-14,14140,16800
+C117,Joseph Harris,Daniel Wilson,Heritage,Hurricane,Closed,2026-05-25,2026-07-15,33221,20216
+C118,Emma Thomas,Daniel Wilson,Heritage,Fire,Closed,2026-04-22,2026-08-31,7840,15353
+C119,Isabella Brown,Michael Davis,Tower Hill,Mold,Closed,2025-09-14,2025-12-15,28211,18055
+C120,Olivia Moore,John Carter,Universal,Hurricane,Closed,2026-01-03,2026-04-03,46137,6437
+C121,Emily Wilson,Michael Davis,Universal,Roof,Closed,2026-05-24,2026-08-20,42784,20081
+C122,Emma Johnson,Olivia Brown,Heritage,Water,Closed,2025-05-21,2025-11-12,23246,7583
+C123,Daniel Jones,Olivia Brown,Universal,Mold,Closed,2025-04-03,2025-07-10,14510,32230
+C124,Sarah Brown,Sophia Moore,Citizens,Water,Closed,2025-10-07,2025-12-26,22342,36578
+C125,Michael Jackson,John Carter,Liberty Mutual,Mold,Closed,2025-08-20,2025-12-14,26971,41524
+C126,Emily Brown,Michael Davis,Tower Hill,Hurricane,Closed,2025-05-07,2025-07-28,27970,43309
+C127,Matthew Williams,Sophia Moore,Heritage,Roof,Open,2026-07-29,,42982,0
+C128,John Taylor,Sophia Moore,Citizens,Hurricane,Open,2026-02-23,,5971,0
+C129,Emily Garcia,James Anderson,Universal,Water,Closed,2025-08-29,2025-10-17,32729,30470
+C130,John Thomas,Michael Davis,Tower Hill,Fire,Closed,2026-03-01,2026-07-19,21333,31746
+C131,Emily Johnson,James Anderson,Liberty Mutual,Water,Closed,2025-08-30,2025-10-09,38682,29073
+C132,Daniel Lewis,John Carter,Citizens,Roof,Closed,2025-05-06,2025-09-14,46435,11007
+C133,Charlotte Davis,Michael Davis,State Farm,Roof,Closed,2025-09-07,2026-02-13,7496,18448
+C134,Robert Jones,Daniel Wilson,State Farm,Hurricane,Closed,2025-06-01,2025-11-15,21171,5185
+C135,Matthew Clark,Olivia Brown,Citizens,Water,Open,2025-01-27,,26477,0
+C136,Mia Brown,Sarah Mitchell,Tower Hill,Fire,Open,2025-09-29,,30588,0
+C137,Matthew Lewis,John Carter,Heritage,Mold,Closed,2026-01-06,2026-02-17,36019,34622
+C138,Olivia White,Sarah Mitchell,Tower Hill,Fire,Closed,2025-11-05,2025-11-27,34390,8986
+C139,Michael Jones,Daniel Wilson,Universal,Mold,Closed,2025-03-17,2025-06-22,12721,44865
+C140,Andrew Harris,James Anderson,Citizens,Hurricane,Closed,2026-07-16,2026-08-31,37770,44150
+C141,Matthew White,Olivia Brown,Tower Hill,Fire,Closed,2026-07-19,2026-08-31,32593,33185
+C142,Joseph Thomas,Emily Johnson,Heritage,Fire,Closed,2026-03-02,2026-06-05,23481,32968
+C143,Michael White,Sarah Mitchell,Heritage,Roof,Open,2025-03-10,,8594,0
+C144,Sarah Brown,James Anderson,Liberty Mutual,Fire,Closed,2025-05-14,2025-10-26,39810,41804
+C145,David Clark,Michael Davis,State Farm,Fire,Closed,2025-02-22,2025-08-09,26045,25476
+C146,David Moore,Michael Davis,Tower Hill,Mold,Closed,2025-08-18,2025-11-30,27088,41455
+C147,Joseph Carter,Emily Johnson,Liberty Mutual,Roof,Open,2026-07-25,,46111,0
+C148,Olivia Williams,Emily Johnson,Heritage,Hurricane,Closed,2025-12-14,2026-02-13,40114,14388
+C149,Emma Anderson,Emily Johnson,Liberty Mutual,Roof,Closed,2025-04-04,2025-06-13,30514,29654
+C150,John Jones,Emily Johnson,Universal,Hurricane,Closed,2025-11-29,2026-05-08,8567,44074
+C151,Sophia Martin,Sophia Moore,Tower Hill,Roof,Open,2025-03-25,,46380,0
+C152,David Taylor,Sophia Moore,Universal,Roof,Closed,2025-08-09,2025-09-22,31174,27621
+C153,John Carter,Michael Davis,Liberty Mutual,Water,Open,2025-02-16,,42277,0
+C154,James Martin,James Anderson,State Farm,Water,Closed,2025-05-21,2025-08-18,10863,26503
+C155,Emily Williams,James Anderson,Heritage,Hurricane,Closed,2026-01-25,2026-04-08,39616,37785
+C156,Sarah Clark,James Anderson,Universal,Fire,Open,2026-03-23,,8102,0
+C157,James Anderson,Emily Johnson,Universal,Fire,Open,2026-03-04,,29544,0
+C158,Matthew White,James Anderson,Universal,Hurricane,Open,2026-01-06,,9937,0
+C159,William Williams,Sarah Mitchell,Universal,Mold,Closed,2026-02-10,2026-05-22,24827,19520
+C160,Robert Wilson,Sarah Mitchell,State Farm,Roof,Closed,2025-07-18,2025-10-30,45299,28009
+C161,Michael Miller,Sophia Moore,Tower Hill,Mold,Open,2025-07-22,,13018,0
+C162,Sarah Jones,Sophia Moore,Citizens,Fire,Closed,2026-08-17,2026-08-31,44105,26181
+C163,Emily Thompson,Sarah Mitchell,Liberty Mutual,Fire,Closed,2026-03-29,2026-06-22,6681,43759
+C164,Andrew Williams,Sarah Mitchell,Universal,Mold,Open,2026-04-08,,27165,0
+C165,Emma Clark,Michael Davis,Liberty Mutual,Mold,Closed,2026-06-04,2026-08-31,5688,41327
+C166,Sarah Williams,Emily Johnson,Citizens,Water,Closed,2026-05-03,2026-06-02,9783,34525
+C167,William Thomas,Olivia Brown,Liberty Mutual,Fire,Closed,2026-03-25,2026-08-21,42964,39258
+C168,Sarah Williams,Olivia Brown,Citizens,Mold,Closed,2026-02-23,2026-08-10,44345,8431
+C169,Grace Jones,Olivia Brown,Citizens,Mold,Open,2026-01-31,,46028,0
+C170,Grace Williams,Daniel Wilson,Universal,Fire,Closed,2025-05-25,2025-08-27,11450,30687
+C171,Sophia Thompson,Olivia Brown,Citizens,Roof,Closed,2025-12-03,2026-05-01,45337,11124
+C172,Sarah Martin,Michael Davis,State Farm,Water,Open,2025-11-13,,17037,0
+C173,Mia Garcia,John Carter,Heritage,Roof,Open,2025-06-08,,9628,0
+C174,Grace Miller,Sophia Moore,Citizens,Fire,Closed,2025-05-15,2025-07-08,14851,15633
+C175,Andrew Harris,Michael Davis,Universal,Water,Closed,2026-01-09,2026-03-25,43015,34111
+C176,Amelia Harris,Sophia Moore,Liberty Mutual,Fire,Closed,2025-11-13,2026-03-28,27106,17715
+C177,Robert Moore,John Carter,Heritage,Fire,Closed,2026-05-30,2026-07-25,42627,18087
+C178,Andrew Williams,Emily Johnson,Liberty Mutual,Fire,Closed,2026-01-16,2026-02-26,11170,38810
+C179,Michael Wilson,Sophia Moore,Liberty Mutual,Hurricane,Open,2026-06-10,,31670,0
+C180,Emily Wilson,James Anderson,Citizens,Roof,Open,2026-03-01,,35899,0
+C181,Sarah Jones,Emily Johnson,Citizens,Roof,Open,2025-08-18,,9493,0
+C182,Grace Carter,Sarah Mitchell,Citizens,Roof,Closed,2026-04-29,2026-06-18,32399,35743
+C183,Sophia Brown,Daniel Wilson,State Farm,Roof,Closed,2025-08-09,2026-01-11,37588,44903
+C184,Grace Harris,Sarah Mitchell,Citizens,Fire,Open,2025-05-05,,30513,0
+C185,Amelia Wilson,Emily Johnson,Liberty Mutual,Fire,Open,2026-07-03,,36775,0
+C186,William Williams,Olivia Brown,Citizens,Mold,Closed,2025-01-02,2025-03-19,30300,42399
+C187,Olivia Martin,John Carter,Heritage,Fire,Closed,2026-07-12,2026-08-31,4332,41316
+C188,Emily Williams,Olivia Brown,State Farm,Hurricane,Open,2026-01-18,,4064,0
+C189,Emily Garcia,Olivia Brown,Heritage,Water,Closed,2026-08-19,2026-08-31,5905,13743
+C190,Michael Harris,John Carter,Liberty Mutual,Water,Closed,2026-04-21,2026-08-31,11837,16945
+C191,Mia Jackson,Sophia Moore,Liberty Mutual,Hurricane,Closed,2025-02-14,2025-03-11,23321,25682
+C192,Sarah Moore,Sarah Mitchell,Liberty Mutual,Fire,Open,2025-07-15,,6132,0
+C193,Isabella Martin,Olivia Brown,Universal,Roof,Closed,2026-02-14,2026-06-07,15243,27219
+C194,William Garcia,Daniel Wilson,Liberty Mutual,Hurricane,Closed,2025-03-26,2025-04-30,42482,33220
+C195,Andrew Harris,James Anderson,State Farm,Fire,Open,2025-03-23,,22375,0
+C196,John Williams,James Anderson,Liberty Mutual,Mold,Closed,2025-12-26,2026-04-10,20993,33504
+C197,Emma Johnson,Emily Johnson,Citizens,Water,Closed,2025-06-13,2025-08-03,47439,44817
+C198,Robert Harris,Olivia Brown,Liberty Mutual,Fire,Closed,2026-01-11,2026-06-20,42655,7122
+C199,Sarah Moore,Michael Davis,Citizens,Hurricane,Closed,2025-03-20,2025-08-17,29085,29048
+C200,Joseph Moore,Sophia Moore,State Farm,Mold,Closed,2025-07-10,2025-11-01,10717,41809
+C201,Robert Williams,Sophia Moore,State Farm,Fire,Closed,2025-10-20,2026-03-09,11037,18118
+C202,Michael Garcia,Daniel Wilson,Liberty Mutual,Water,Closed,2025-03-31,2025-07-05,49500,27768
+C203,Daniel Jones,Michael Davis,Tower Hill,Hurricane,Closed,2025-06-28,2025-11-20,10953,19695
+C204,Robert Lewis,Sarah Mitchell,Citizens,Roof,Closed,2026-01-05,2026-04-24,39152,35631
+C205,Sophia Clark,Sarah Mitchell,State Farm,Roof,Closed,2026-02-12,2026-06-29,29921,39451
+C206,Charlotte Clark,Emily Johnson,State Farm,Fire,Closed,2025-03-17,2025-08-11,11410,27578
+C207,Robert Taylor,Emily Johnson,State Farm,Roof,Closed,2026-05-30,2026-06-28,36954,13137
+C208,Andrew Williams,Daniel Wilson,State Farm,Mold,Open,2025-08-19,,37006,0
+C209,Grace Garcia,Sarah Mitchell,Universal,Water,Open,2025-10-09,,22845,0
+C210,Grace Lewis,Olivia Brown,Universal,Hurricane,Closed,2026-08-30,2026-08-31,46170,16219
+C211,Amelia Moore,Michael Davis,Universal,Fire,Open,2025-01-30,,45038,0
+C212,Andrew Martin,Michael Davis,Heritage,Fire,Closed,2025-02-01,2025-07-26,21983,40754
+C213,Sophia Martin,Sophia Moore,State Farm,Roof,Closed,2025-11-01,2025-12-01,31809,15359
+C214,Emily Jackson,Emily Johnson,Liberty Mutual,Mold,Open,2025-05-28,,23926,0
+C215,Emma Brown,Daniel Wilson,Tower Hill,Water,Open,2026-07-30,,18842,0
+C216,Olivia Lewis,James Anderson,State Farm,Water,Open,2025-05-25,,22019,0
+C217,Isabella Thompson,Sophia Moore,Tower Hill,Roof,Closed,2025-12-02,2026-03-07,13442,17440
+C218,Mia Harris,Michael Davis,State Farm,Mold,Open,2026-05-25,,28771,0
+C219,Isabella Lewis,Sophia Moore,Liberty Mutual,Mold,Open,2025-12-28,,21438,0
+C220,Emily Jackson,Olivia Brown,Citizens,Fire,Closed,2025-01-09,2025-05-14,20332,13777
+C221,Andrew Williams,James Anderson,Universal,Fire,Closed,2025-02-22,2025-04-27,39256,28758
+C222,Grace Brown,Emily Johnson,Citizens,Fire,Open,2026-07-18,,43844,0
+C223,Robert Davis,James Anderson,Universal,Hurricane,Closed,2026-01-18,2026-04-29,26960,41558
+C224,Sarah Martin,Sophia Moore,State Farm,Mold,Open,2025-02-16,,49765,0
+C225,Sarah Miller,James Anderson,Universal,Roof,Open,2026-06-12,,43178,0
+C226,Charlotte Martin,Daniel Wilson,Tower Hill,Hurricane,Open,2026-08-31,,36404,0
+C227,Sophia Clark,Daniel Wilson,Heritage,Hurricane,Open,2026-01-13,,10183,0
+C228,Amelia Clark,Michael Davis,Heritage,Hurricane,Open,2026-05-01,,45964,0
+C229,Matthew Johnson,Sarah Mitchell,State Farm,Hurricane,Closed,2026-08-21,2026-08-31,12684,29916
+C230,Sophia Davis,James Anderson,Universal,Mold,Open,2026-03-28,,12924,0
+C231,Daniel Garcia,Olivia Brown,Heritage,Fire,Closed,2026-04-28,2026-05-28,36992,14049
+C232,Sarah Garcia,Olivia Brown,Heritage,Roof,Closed,2026-06-23,2026-08-21,37939,35124
+C233,Joseph Garcia,Daniel Wilson,State Farm,Roof,Open,2026-05-11,,19155,0
+C234,Emily Garcia,Daniel Wilson,Liberty Mutual,Hurricane,Closed,2025-10-23,2026-03-12,34444,25777
+C235,Robert Taylor,John Carter,Liberty Mutual,Hurricane,Closed,2026-08-11,2026-08-31,25618,30856
+C236,Daniel Garcia,Daniel Wilson,Universal,Roof,Closed,2025-12-21,2026-03-11,17023,36396
+C237,Matthew Wilson,John Carter,Heritage,Mold,Open,2025-05-21,,41458,0
+C238,Sarah Martin,Sarah Mitchell,Heritage,Water,Closed,2025-08-20,2025-09-17,30086,11566
+C239,Isabella Martin,Michael Davis,Liberty Mutual,Roof,Closed,2025-01-06,2025-03-02,45787,31667
+C240,Charlotte Johnson,Emily Johnson,Tower Hill,Water,Closed,2025-10-20,2025-11-26,18218,42626
+C241,Andrew Johnson,John Carter,Liberty Mutual,Mold,Closed,2025-02-07,2025-06-03,15210,37465
+C242,Charlotte Thompson,Sophia Moore,State Farm,Mold,Closed,2025-04-20,2025-07-29,32776,23649
+C243,Sarah Miller,Sophia Moore,Heritage,Roof,Open,2026-04-25,,10382,0
+C244,Andrew Clark,Michael Davis,State Farm,Mold,Open,2025-07-10,,25092,0
+C245,Olivia Brown,Emily Johnson,State Farm,Fire,Closed,2026-02-20,2026-07-16,8684,26491
+C246,Matthew Harris,Daniel Wilson,Liberty Mutual,Roof,Closed,2025-11-28,2025-12-14,28137,22090
+C247,Emily Wilson,John Carter,Heritage,Hurricane,Closed,2026-08-20,2026-08-31,45839,22141
+C248,Mia Taylor,Sarah Mitchell,Heritage,Roof,Open,2026-04-22,,29569,0
+C249,Robert Harris,Olivia Brown,Tower Hill,Mold,Closed,2026-01-12,2026-03-24,34338,13753
+C250,Grace Williams,Sophia Moore,Universal,Roof,Closed,2026-04-28,2026-07-07,47586,21217
+C251,Mia Davis,Emily Johnson,State Farm,Roof,Closed,2025-03-21,2025-05-03,38890,9047
+C252,Michael Thompson,Sophia Moore,Citizens,Fire,Closed,2026-06-17,2026-08-23,35035,43217
+C253,Charlotte Harris,Daniel Wilson,Heritage,Hurricane,Closed,2025-05-16,2025-09-24,6783,41956
+C254,Daniel Clark,Sarah Mitchell,Citizens,Fire,Open,2026-02-10,,3197,0
+C255,Isabella Johnson,Daniel Wilson,Tower Hill,Water,Closed,2025-12-19,2026-05-21,7523,8948
+C256,Olivia Harris,James Anderson,Tower Hill,Hurricane,Closed,2025-05-19,2025-11-15,27540,32548
+C257,David Miller,James Anderson,Universal,Water,Open,2026-07-07,,25791,0
+C258,Charlotte White,James Anderson,State Farm,Water,Closed,2025-08-17,2025-09-06,33343,24553
+C259,Daniel Brown,John Carter,Heritage,Fire,Open,2026-04-17,,21064,0
+C260,David Lewis,John Carter,Tower Hill,Mold,Open,2025-01-17,,7409,0
+C261,Olivia Harris,Michael Davis,Universal,Water,Open,2025-02-19,,5899,0
+C262,Matthew Clark,Olivia Brown,Universal,Mold,Open,2025-02-27,,21957,0
+C263,Mia Wilson,James Anderson,Liberty Mutual,Roof,Open,2025-11-25,,12388,0
+C264,Sophia Garcia,Sophia Moore,Citizens,Roof,Closed,2025-03-04,2025-08-17,44025,16477
+C265,Robert Taylor,James Anderson,State Farm,Mold,Closed,2026-01-26,2026-05-02,29755,32284
+C266,Andrew Jones,Sophia Moore,Citizens,Mold,Open,2026-04-30,,17768,0
+C267,Olivia Wilson,Daniel Wilson,State Farm,Roof,Closed,2026-02-27,2026-08-03,11787,39733
+C268,Daniel Johnson,Daniel Wilson,Tower Hill,Mold,Closed,2025-03-22,2025-07-09,38103,11059
+C269,Charlotte Davis,Sophia Moore,State Farm,Roof,Closed,2025-02-10,2025-04-14,47004,43507
+C270,David Martin,Michael Davis,Heritage,Mold,Closed,2025-11-07,2025-11-25,15453,18881
+C271,Andrew Jackson,Sophia Moore,Universal,Roof,Closed,2025-07-29,2025-10-13,24077,41181
+C272,Isabella Harris,Sarah Mitchell,Heritage,Fire,Open,2025-11-12,,36607,0
+C273,John Clark,Michael Davis,Heritage,Water,Closed,2025-11-24,2026-03-13,30127,25507
+C274,Amelia White,Daniel Wilson,State Farm,Water,Open,2025-01-17,,41275,0
+C275,Matthew Martin,Olivia Brown,Liberty Mutual,Fire,Open,2025-12-04,,40341,0
+C276,Charlotte Martin,Emily Johnson,Universal,Hurricane,Closed,2026-05-18,2026-08-31,12172,16092
+C277,John Carter,James Anderson,State Farm,Water,Open,2026-06-21,,7871,0
+C278,Emma Thomas,John Carter,Universal,Mold,Closed,2025-03-11,2025-03-28,36143,19334
+C279,Charlotte White,John Carter,Citizens,Mold,Closed,2026-05-10,2026-05-29,37879,5433
+C280,Sophia Miller,Sarah Mitchell,Citizens,Mold,Closed,2025-10-09,2026-01-05,35913,6123
+C281,Mia Moore,Olivia Brown,Liberty Mutual,Fire,Open,2025-06-02,,43617,0
+C282,Matthew Wilson,Daniel Wilson,Heritage,Hurricane,Closed,2025-03-22,2025-07-18,40027,35080
+C283,Olivia Garcia,Sophia Moore,Citizens,Hurricane,Open,2025-02-02,,27855,0
+C284,Sarah Clark,Sarah Mitchell,Universal,Hurricane,Open,2025-06-25,,31436,0
+C285,Amelia Martin,Daniel Wilson,Citizens,Hurricane,Open,2025-08-24,,48369,0
+C286,Sarah Carter,Michael Davis,Universal,Water,Closed,2025-10-15,2026-03-23,14754,7156
+C287,Matthew Clark,James Anderson,Heritage,Mold,Closed,2026-02-12,2026-05-14,39959,15646
+C288,Emily Johnson,Sarah Mitchell,Tower Hill,Water,Closed,2025-12-06,2026-01-25,35819,10139
+C289,Grace Jackson,Olivia Brown,Citizens,Roof,Open,2025-03-19,,43230,0
+C290,Sophia Miller,James Anderson,Citizens,Mold,Closed,2026-04-07,2026-07-22,27603,41243
+C291,Robert Jackson,Emily Johnson,Heritage,Fire,Closed,2025-10-30,2025-12-02,20561,10376
+C292,Emma Thomas,Daniel Wilson,Citizens,Water,Closed,2025-11-21,2025-12-29,23202,5340
+C293,Charlotte Garcia,James Anderson,Citizens,Hurricane,Open,2025-03-31,,32415,0
+C294,Sarah Jackson,John Carter,Liberty Mutual,Fire,Closed,2025-04-02,2025-05-10,42193,44120
+C295,Mia Miller,James Anderson,State Farm,Water,Closed,2026-02-02,2026-07-10,40483,20908
+C296,Robert Williams,Emily Johnson,Tower Hill,Roof,Open,2025-10-03,,35317,0
+C297,Emily Moore,Michael Davis,Heritage,Fire,Open,2026-03-08,,8041,0
+C298,Olivia Anderson,James Anderson,Liberty Mutual,Fire,Closed,2025-07-20,2025-09-07,3443,24966
+C299,Sarah Lewis,Michael Davis,Tower Hill,Roof,Closed,2025-12-09,2026-05-25,22689,13921
+C300,Isabella Clark,Michael Davis,Liberty Mutual,Fire,Closed,2025-07-01,2025-10-05,48544,24100
