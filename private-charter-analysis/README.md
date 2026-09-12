@@ -75,7 +75,7 @@ The interactive Power BI dashboard provides an overview of:
 
 ### 📌 Profitability by Aircraft Model
 
-![Top Aircraft](top_aircraft.png)
+![Top Aircraft](top_aircraft.png) 
 
 ### 📌 Top Routes Analysis
 
