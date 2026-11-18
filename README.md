@@ -8,6 +8,16 @@ I enjoy transforming structured and messy datasets into clear, business-ready in
 
 ## ⭐ Personal Projects
 
+### ⚖️ Legal Claims Operations Analytics
+
+Analyzed a synthetic property insurance claims dataset using Python, Pandas, and Power BI. Performed data cleaning and quality checks, developed an interactive dashboard, and explored claims volume, processing times, claim amounts, and operational trends.
+
+**Skills:** Python, Pandas, Power BI, DAX, Data Cleaning, Data Quality, Data Validation, Exploratory Data Analysis, Dashboard Development
+
+[View Project](./legal-claims-operations-analytics)
+
+---
+
 ### ✈️ Private Charter Profitability Analysis
 
 Analyzed private charter flight data using SQL and Power BI to identify profitable routes, aircraft performance, manufacturer profitability, and revenue drivers.
@@ -15,16 +25,6 @@ Analyzed private charter flight data using SQL and Power BI to identify profitab
 **Skills:** SQL, Power BI, DAX, JOINs, GROUP BY, Data Modeling, Business Analysis
 
 [View Project](./private-charter-analysis)
-
----
-
-### ⚖️ Legal Claims Analysis with Python
-
-Analyzed a fictional legal claims dataset using Python and Pandas to explore case status, damage types, insurance companies, settlement amounts, and case duration.
-
-**Skills:** Python, Pandas, Matplotlib, Data Cleaning, Exploratory Data Analysis
-
-[View Project](./legal-claims-analysis-python)
 
 ---
 
@@ -69,5 +69,5 @@ SQL • Power BI • Excel • Python (Pandas) • Power Query • DAX • Data 
 ## 📫 Contact
 
 LinkedIn: linkedin.com/in/sallymei08
-Email: [sallymw93@hotmail.com](mailto:sallymw93@hotmail.com)
 
+Email: [sallymw93@hotmail.com](mailto:sallymw93@hotmail.com)
