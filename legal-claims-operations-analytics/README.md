@@ -67,7 +67,7 @@ Additional analysis highlights differences in claim volume and amounts across co
 
 ## 📷 Dashboard Preview
 
-![Legal Claims Operations Dashboard](images/dashboard.png)
+![Legal Claims Operations Dashboard](Images/dashboard.png)
 
 ## 📁 Project Structure
 
